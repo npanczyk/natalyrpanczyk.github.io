@@ -24,51 +24,58 @@
   contents:
     - title: Intern
       institution: MPR Associates
-      year: May 2023 - \n July 2023
+      year: May 2023
       description:
         - Analyzed a reactivity insertion accident for USNC Micro Modular Reactor using RELAP5-3D
         - Developed maintenance dose tool for a fusion system
         - Drafted a white paper on pairing municipal wastewater systems with nuclear microreactors for EPRI
+        - Ended July 2023
 
     - title: Research Assistant
       institution: Multiphase Thermo-fluid Dynamics Laboratory - UIUC
-      year: Jan. 2023 - \n Present
+      year: Jan. 2023 
       description:
         - Analyzing post-CHF conditions for downward flow boiling in a high heat flux test section
+        - Present Position
 
     - title: Research Assistant
       institution: Advanced Reactors and Fuel Cycles - UIUC
-      year: Sept. 2020 - \n Dec. 2022
+      year: Sept. 2020 
       description:
         - Began TRISO fuel analysis with MOOSE for the UIUC microreactor project
         - Designed techno-economic analyses for clean hydrogen systems
         - Completed technical writing course (Writing in the Sciences) on Coursera
         - Served as group technical editor for all publications
+        - Ended Dec. 2022
 
     - title: Delegate
       institution: Nuclear Engineering Student Delegation
-      year: Sept. 2022, \n Sept. 2023
+      year: 2022, 2023
       description:
         - Represented nuclear student perspectives and presented policy proposals to various organizations (DOE, NEI, NRC, Thirdway, Clearpath, etc.) and Congressional representatives in Washington, D.C.
+        - Weeklong delegation held in September of each year
 
     - title: SULI Intern
       institution: Pacific Northwest National Laboratory
-      year: June 2022 - \n Aug. 2022
+      year: June 2022 
       description:
         - Science Undergraduate Laboratory Internship program through the DOE
         - Automated nuclear waste management modeling quality assurance and data visualization techniques
+        - Ended August 2022
 
     - title: Teaching Assistant, NPRE 247 & NPRE 100
       institution: Grainger College of Engineering - UIUC
-      year: Aug. 2021 - \n May 2022
+      year: Aug. 2021 
       description:
         - Assisted in the NPRE department’s two introductory courses (247,  Modeling Nuclear Energy Systems; 100, Intro to NPRE) by grading projects and hosting office hours
+        - Ended May 2022
 
     - title: Intern
       institution: Idaho National Laboratory
-      year: May 2021 - \n Aug. 2021
+      year: May 2021
       description:
         - Conducted a technoeconomic analysis on the feasibility of implementing microreactors into a clean steel manufacturing scheme using Temoa, an open-source energy system optimization model
+        - Ended August 2021
 
 
 
