@@ -2,25 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Here to tell you why <a href='#'>splitting atoms is the best way to address climate change</a> and that you're probably undersalting your pasta water.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>104 S. Wright St.</p>
+    <p>Urbana, IL 61820</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Nataly Panczyk is a senior majoring in Nuclear, Plasma, and Radiological Engineering at the University of Illinois at Urbana-Champaign (UIUC). She has a minor in Political Science and is an avid supporter of nuclear power and public outreach for clean energy systems. She currently serves as a Co-President of the Women in Nuclear chapter at UIUC and is an active member in the [UIUC American Nuclear Society chapter](https://ansatuiuc.web.engr.illinois.edu). Her research on campus is under Professor Caleb Brooks and focuses on post-critical heat flux analysis for downwards flow boiling systems. Most recently, Nataly interned with MPR, an engineering consulting company in Alexandria, VA, where she worked on safety analyses for advanced nuclear reactors, dosage modeling for fusion systems, and business and market analysis for microreactors on a nationwide scale. Previously, she’s worked for both Pacific Northwest National Laboratory on nuclear waste management modeling and Idaho National Laboratory to perform a techno economic analysis of nuclear-powered steel manufacturing. This year was her second time on the [Nuclear Engineering Student Delegation](https://nesd.org), and she is excited to continue to advocate for the technology that she believes will be critical to a global climate change solution.
