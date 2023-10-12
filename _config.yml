@@ -400,8 +400,8 @@ medium_zoom:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: 
-    json:  # it can also be an url
-jsonresume:
-  - 
+#jekyll_get_json:
+  #- data: 
+    #json:  # it can also be an url
+#jsonresume:
+  #- 
