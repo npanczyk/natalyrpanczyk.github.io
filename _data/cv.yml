@@ -15,73 +15,98 @@
       institution: University of Illinois Urbana-Champaign
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Nuclear, Plasma, and Radiological Engineering
+        - Concentration in Power, Safety, and the Environment
+        - Minor in Political Science
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Intern
+      institution: MPR Associates
+      year: May 2023 - July 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Analyzed a reactivity insertion accident for USNC Micro Modular Reactor using RELAP5-3D
+        - Developed maintenance dose tool for a fusion system
+        - Drafted a white paper on pairing municipal wastewater systems with nuclear microreactors for EPRI
+
+    - title: Research Assistant
+      institution: Multiphase Thermo-fluid Dynamics Laboratory - UIUC
+      year: January 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Analyzing post-CHF conditions for downward flow boiling in a high heat flux test section
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Advanced Reactors and Fuel Cycles - UIUC
+      year: September 2020 - December 2022
       description:
+        - Began TRISO fuel analysis with MOOSE for the UIUC microreactor project
+        - Designed techno-economic analyses for clean hydrogen systems
+        - Completed technical writing course (Writing in the Sciences) on Coursera
+        - Served as group technical editor for all publications
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Delegate
+      institution: Nuclear Engineering Student Delegation
+      year: September 2022, September 2023
+      description:
+        - Represented nuclear student perspectives and presented policy proposals to various organizations (DOE, NEI, NRC, Thirdway, Clearpath, etc.) and Congressional representatives in Washington, D.C.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: SULI Intern
+      institution: Pacific Northwest National Laboratory
+      year: June 2022 - August 2022
+      description:
+        - Science Undergraduate Laboratory Internship program through the DOE
+        - Automated nuclear waste management modeling quality assurance and data visualization techniques
+
+    - title: Teaching Assistant, NPRE 247 & NPRE 100
+      institution: Grainger College of Engineering - UIUC
+      year: August 2021 - May 2022
+      description:
+        - Assisted in the NPRE department’s two introductory courses (247,  Modeling Nuclear Energy Systems; 100, Intro to NPRE) by grading projects and hosting office hours
+
+    - title: Intern
+      institution: Idaho National Laboratory
+      year: May 2021 - August 2021
+      description:
+        - Conducted a technoeconomic analysis on the feasibility of implementing microreactors into a clean steel manufacturing scheme using Temoa, an open-source energy system optimization model
+
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: September 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Kirkwood Women in Engineering Scholarship
+    - year: April 2023
+      items:
+        - Nuclear Energy Undergraduate Program Scholarship
+    - year: December 2022
       items: 
-        - Max Planck Medal
+        - Roy G. Post Waste Management Scholarship
+    - year: April 2022
+      items: 
+        - Nuclear Energy Undergraduate Program Scholarship
+    - year: May 2021
+      items: 
+        - NPRE Rising Undergraduate Research Award
 
-- title: Academic Interests
+- title: Activities
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Women in Nuclear UIUC Student Chapter
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - 2023: Co-President
+        - 2022: Co-President
+        - 2021: Social Chair
+        - 2020: Social Media Chair
+    - title: American Nuclear Society UIUC Student Chapter
       items:
-        - Description 1.
-        - Description 2.
+        - 2021: Outreach Chair
+        - 2022: Student Conference Socials Chair
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Languages:</u> English, Spanish (working)
+    - <u>Code:</u> Python, Git, Github, LaTEX, MATLAB, HTML, CSS
