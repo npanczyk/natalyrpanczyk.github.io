@@ -2,15 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Here to tell you why <a href='#'>splitting atoms is the best way to address climate change</a> and that you're probably under-salting your pasta water.
+subtitle: Here to tell you why <a href='#'>splitting atoms is the best way to address climate change</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>104 S. Wright St.</p>
-    <p>Urbana, IL 61820</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
