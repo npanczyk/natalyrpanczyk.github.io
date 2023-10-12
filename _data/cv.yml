@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: BS
+    - title: Bachelor of Science
       institution: University of Illinois Urbana-Champaign
-      year: 2024
+      year: May 2024
       description:
         - Major in Nuclear, Plasma, and Radiological Engineering
         - Concentration in Power, Safety, and the Environment
@@ -24,7 +24,8 @@
   contents:
     - title: Intern
       institution: MPR Associates
-      year: May 2023 - July 2023
+      year: May 2023 - 
+      July 2023
       description:
         - Analyzed a reactivity insertion accident for USNC Micro Modular Reactor using RELAP5-3D
         - Developed maintenance dose tool for a fusion system
@@ -32,13 +33,15 @@
 
     - title: Research Assistant
       institution: Multiphase Thermo-fluid Dynamics Laboratory - UIUC
-      year: January 2023 - Present
+      year: Jan. 2023 - 
+      Present
       description:
         - Analyzing post-CHF conditions for downward flow boiling in a high heat flux test section
 
     - title: Research Assistant
       institution: Advanced Reactors and Fuel Cycles - UIUC
-      year: September 2020 - December 2022
+      year: Sept. 2020 - 
+      Dec. 2022
       description:
         - Began TRISO fuel analysis with MOOSE for the UIUC microreactor project
         - Designed techno-economic analyses for clean hydrogen systems
@@ -47,26 +50,30 @@
 
     - title: Delegate
       institution: Nuclear Engineering Student Delegation
-      year: September 2022, September 2023
+      year: Sept. 2022, 
+      Sept. 2023
       description:
         - Represented nuclear student perspectives and presented policy proposals to various organizations (DOE, NEI, NRC, Thirdway, Clearpath, etc.) and Congressional representatives in Washington, D.C.
 
     - title: SULI Intern
       institution: Pacific Northwest National Laboratory
-      year: June 2022 - August 2022
+      year: June 2022 - 
+      Aug. 2022
       description:
         - Science Undergraduate Laboratory Internship program through the DOE
         - Automated nuclear waste management modeling quality assurance and data visualization techniques
 
     - title: Teaching Assistant, NPRE 247 & NPRE 100
       institution: Grainger College of Engineering - UIUC
-      year: August 2021 - May 2022
+      year: Aug. 2021 - 
+      May 2022
       description:
         - Assisted in the NPRE department’s two introductory courses (247,  Modeling Nuclear Energy Systems; 100, Intro to NPRE) by grading projects and hosting office hours
 
     - title: Intern
       institution: Idaho National Laboratory
-      year: May 2021 - August 2021
+      year: May 2021 - 
+      Aug. 2021
       description:
         - Conducted a technoeconomic analysis on the feasibility of implementing microreactors into a clean steel manufacturing scheme using Temoa, an open-source energy system optimization model
 
@@ -75,13 +82,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: September 2023
+    - year: Sept. 2023
       items: 
         - Kirkwood Women in Engineering Scholarship
     - year: April 2023
       items:
         - Nuclear Energy Undergraduate Program Scholarship
-    - year: December 2022
+    - year: Dec. 2022
       items: 
         - Roy G. Post Waste Management Scholarship
     - year: April 2022
@@ -96,14 +103,14 @@
   contents:
     - title: Women in Nuclear UIUC Student Chapter
       items: 
-        - 2023: Co-President
-        - 2022: Co-President
-        - 2021: Social Chair
-        - 2020: Social Media Chair
+        - 2023 - Co-President
+        - 2022 - Co-President
+        - 2021 - Social Chair
+        - 2020 - Social Media Chair
     - title: American Nuclear Society UIUC Student Chapter
       items:
-        - 2021: Outreach Chair
-        - 2022: Student Conference Socials Chair
+        - 2021 - Outreach Chair
+        - 2022 - Student Conference Socials Chair
 
 - title: Skills
   type: list
