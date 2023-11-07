@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Nuclear needs a makeover– <em>why we must rebrand a stigmatized industry<em>
-date:   2023-11-7 11:40:16
-description: reframing the narrative
+title:  "Nuclear needs a makeover"
+date:   2023-11-07 11:40:16
+description: why we must rebrand a stigmatized industry
 tags: nuclear, outreach, branding
 categories: nuclear-outreach
 ---
