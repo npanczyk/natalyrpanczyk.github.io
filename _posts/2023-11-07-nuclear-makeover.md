@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nuclear needs a makeover"
+title:  Nuclear needs a makeover
 date:   2023-11-07 11:40:16
 description: why we must rebrand a stigmatized industry
 tags: nuclear, outreach, branding
